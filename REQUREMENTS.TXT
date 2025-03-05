@@ -1,6 +1,6 @@
 NumPy
 Pandas
-Matplotlib
+matplotlib
 Seaborn
 yFinance
 Scikit-learn
