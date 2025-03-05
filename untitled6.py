@@ -352,6 +352,10 @@ plt.plot(valid['Predictions'], label='Predicted Price', color='orange')
 plt.legend()
 plt.show()
 
+
+
+pip install -r requirements.txt
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
